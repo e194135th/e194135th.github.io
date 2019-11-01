@@ -1,0 +1,27 @@
+h1{
+    color: aqua;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+body{
+    background-image: url("../images/3Riders.jpg");
+}
+
+h2{
+    color: red;
+    text-align: center;
+    background-color: white;
+}
+
+h4{
+    color: orange;
+}
+
+p{
+    color: azure;
+}
+
+
+
+
