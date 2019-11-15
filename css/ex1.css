@@ -1,0 +1,27 @@
+h1{
+    color: aqua;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+body{
+    background-image: url("../images/3Riders.jpg");
+}
+
+h3{
+    color: red;
+    text-align: center;
+    background-color: white;
+}
+
+table{
+    background-color: chocolate
+}
+
+ol{
+    background-image: url(../images/zeroone_mini.jpg);
+}
+
+
+
+
