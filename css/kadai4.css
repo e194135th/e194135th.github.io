@@ -1,0 +1,32 @@
+body{
+    background-image: url("../images/zeroone.jpg");
+}
+
+h1.terada{
+    text-align: center;
+    background-color:antiquewhite;
+    color: blue;    
+}
+
+h1#kudo{
+    text-align: center;
+    color: green;
+    background-color:cornflowerblue
+
+}
+
+h2.kamen{
+    color: red;
+    background-color: beige;
+    text-align: center;
+}
+
+h2.rider{
+    color: aqua;
+    background-color:orange;
+    text-align: center 
+}
+
+p{
+    color: blue;
+}
