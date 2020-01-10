@@ -1,0 +1,98 @@
+div.title{
+    width:1000px;
+    height: 40px;
+    background-color:coral;
+    text-align: center;
+    font-family:inherit;
+    font-size: 30px;
+}
+
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color:brown;
+    text-align: right;
+    margin:10px 0px;
+    font-size: 30px;
+   
+}
+
+div.menu{
+    width: 250px;
+    height: 320px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    background-color: cyan;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+div.menu1{
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    background-color:antiquewhite; 
+}
+
+div.menu2{
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    background-color:chartreuse;
+    margin: 10px 0px;
+}
+
+div.menu3{
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    background-color:fuchsia;
+    margin: 10px 0px;
+}
+
+div.image{
+    width: 700px;
+    height: 320px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top; 
+    background-color: beige;
+    font-size: 20px;
+}
+
+div.image1{
+    width: 700px;
+    height: 300px;
+    text-align: center; 
+    background-color:deepskyblue;
+    background-image: url("../images/MatumiyaKiseri.webp");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+div.string{
+    width: 700px;
+    height: 30px;
+    text-align: center;
+    background-color:dimgray;
+}
+
+div.bunkatu{
+    width:1000px;
+    height: 320px;
+    margin: 20px 0px;
+    font-size: 0;
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+body { 
+    background-image: url("../images/Gamer.jpg");
+}
+
+
